@@ -1,0 +1,33 @@
+
+Sep 20, 2023 11:20:36.34 NEW SESSION
+Sep 20, 2023 11:20:36.34 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 20, 2023 11:21:33.66 [7908:4468:0920/112133.661:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 11:22:01.30 [7908:4468:0920/112201.307:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 11:23:03.39 [7908:4468:0920/112303.396:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 11:24:49.12 [7908:4468:0920/112449.125:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 11:28:19.05 [7908:4468:0920/112819.056:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 11:28:44.81 [13516:5472:0920/112844.818:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 11:28:45.13 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 20, 2023 11:29:14.37 [13516:5472:0920/112914.371:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 11:30:01.14 [13516:5472:0920/113001.143:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 11:31:42.36 [13516:5472:0920/113142.359:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 11:34:23.96 [13516:5472:0920/113423.967:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 11:41:54.62 [13516:5472:0920/114154.619:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 12:15:41.02 [13516:5472:0920/121540.426:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 12:25:40.42 [13516:5472:0920/122540.425:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 12:35:40.43 [13516:5472:0920/123540.431:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 12:45:40.43 [13516:5472:0920/124540.436:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 12:53:29.77 [13516:5472:0920/125329.768:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Sep 20, 2023 16:20:30.43 NEW SESSION
+Sep 20, 2023 16:20:30.43 [15272:4796:0920/162030.430:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 16:20:31.79 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Sep 20, 2023 16:20:55.96 [15272:4796:0920/162055.960:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 16:21:46.67 [15272:4796:0920/162146.678:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 16:23:44.73 [15272:4796:0920/162344.728:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 16:27:04.39 [15272:4796:0920/162704.398:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 16:34:41.37 [15272:4796:0920/163441.377:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 16:44:41.38 [15272:4796:0920/164441.383:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 16:54:41.39 [15272:4796:0920/165441.395:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 17:04:41.40 [15272:4796:0920/170441.399:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Sep 20, 2023 22:14:22.32 [15272:4796:0920/221422.292:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
